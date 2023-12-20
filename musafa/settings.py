@@ -1,5 +1,0 @@
-USER = 'postgres'
-PASSWORD = '1801'
-HOST = 'localhost'
-PORT = '5432'
-DATABASE_NAME = 'musafa'
